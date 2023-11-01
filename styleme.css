@@ -1,0 +1,20 @@
+
+body{
+    background-image: url("Images/background.jpg");
+    color : white;
+}
+.courses{
+    color : orange;
+}
+.movies{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 100;
+    font-style: italic;
+}
+#actors{
+    background-color: rgb(36, 33, 98);
+    text-align: center;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
